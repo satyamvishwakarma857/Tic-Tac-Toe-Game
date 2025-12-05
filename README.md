@@ -20,7 +20,7 @@ A fully functional 2-player Tic Tac Toe game built using vanilla HTML, CSS, and 
 ---
 
 ## 🚀 Live Demo
-https://github.com/satyamvishwakarma857/Tic-Tac-Toe-Game.git
+https://satyamvishwakarma857.github.io/Tic-Tac-Toe-Game/
 
 ---
 
